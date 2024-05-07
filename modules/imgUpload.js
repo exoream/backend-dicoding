@@ -8,7 +8,7 @@ const pathKey = path.resolve('./serviceaccountkey.json')
 
 // TODO: Sesuaikan konfigurasi Storage
 const gcs = new Storage({
-    projectId: 'submission-mgce-alhilaluddin',
+    projectId: 'submission-mgce-alhilal',
     keyFilename: pathKey
 })
 
